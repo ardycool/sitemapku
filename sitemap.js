@@ -1,11 +1,5 @@
-ijo-gading.com
 /*
 ijo-gading.com
-ijo-gading.com
-ijo-gading.com
-ijo-gading.com
-ijo-gading.com
-
 var toc_config = {
 	url: 'http://ijo-gading.com',
 	containerId: 'table-of-content',
