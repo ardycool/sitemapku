@@ -4,7 +4,7 @@ var toc_config = {
 	url: 'http://ijo-gading.com',
 	containerId: 'table-of-content',
 	showNew: 15,
-	newText: ' <strong style="font-weight:normal;font-style:normal;color:#fff;font-size:11px;background:#5c5a78;padding:1px 6px 3px 6px;line-height:normal;float:right;border-radius:3px;">baru</strong>',
+	newText: ' <strong style="font-weight:normal;font-style:normal;color:#fff;font-size:11px;background:#5c5a78;padding:1px 6px 3px 6px;line-height:normal;float:right;border-radius:3px;"><a href="http://www.ijo-gading.com">baru</a></strong>',
 	sortAlphabetically: {
 		thePanel: true,
 		theList: true
